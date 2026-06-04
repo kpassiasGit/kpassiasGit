@@ -90,7 +90,7 @@ I'm building toward work at the intersection of **AI, the environment, and engin
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
 - 📧 konstantinos.ps123@gmail.com
-- 🔗 LinkedIn: _add your profile link_
+- 🔗 LinkedIn: https://www.linkedin.com/in/konstantinos-passias-57526921a
 
 ---
 
