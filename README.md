@@ -62,7 +62,7 @@ A few things I've been building and learning with — spanning computer vision, 
 | **[Street Analyzer](https://github.com/kpassiasGit/Street-Analyzer-App)** | Full-stack **computer-vision** app that detects and counts cars, pedestrians and stop signs in street images, with a web gallery for uploading and reviewing results. | YOLOv5, FastAPI, Spring Boot, React, MongoDB |
 | **[Robot Arm](https://github.com/kpassiasGit/robot-arm)** | A 3-DOF robotic arm with full **forward/inverse kinematics** and **real-time hand-gesture control** — steer it just by moving your hand in front of a webcam. | Arduino, Python, OpenCV, MediaPipe |
 | **[Coil Machine Motor Control](https://github.com/kpassiasGit/motorControl-CoilMachine)** | Firmware for a **two-axis coil-winding machine** — coordinates a main winding motor and a pitch/feed motor over serial to lay wire at the right pitch. | Arduino, C++, AccelStepper |
-| 
+
 
 
 ---
@@ -70,14 +70,6 @@ A few things I've been building and learning with — spanning computer vision, 
 ## 🌍 What I'm Aiming Toward
 
 I'm building toward work at the intersection of **AI, the environment, and engineering** — using machine learning and data to model complex systems and support better decisions in areas like **weather, climate, and renewable energy**. I love that this field combines solid engineering fundamentals with real-world impact, from the sensor layer all the way up to the model.
-
----
-
-## 📊 GitHub Stats
-
-![Konstantinos' GitHub stats](https://github-readme-stats.vercel.app/api?username=kpassiasGit&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpassiasGit&layout=compact&theme=tokyonight)
 
 ---
 
