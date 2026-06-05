@@ -23,7 +23,6 @@ I work where **hardware meets intelligence**: building things with microcontroll
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
@@ -49,6 +48,33 @@ I work where **hardware meets intelligence**: building things with microcontroll
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+**Hardware & Design**
+
+![SolidWorks](https://img.shields.io/badge/SOLIDWORKS-E2231A?style=flat&logo=dassaultsystemes&logoColor=white)
+![Altium
+Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1A1A1A?style=flat&logo=easyeda&logoColor=white)
+![OrCAD](https://img.shields.io/badge/OrCAD%20PSpice-009999?style=flat&logo=cadence&logoColor=white)
+
+A few notes so the badges actually render correctly:
+
+- SolidWorks — there's no official solidworks simple-icon, so I used dassaultsystemes (its parent company) which
+renders cleanly. If you'd rather have no logo, drop &logo=...&logoColor=white.
+- Altium Designer — altiumdesigner is a valid simple-icon.
+- EasyEDA — there is no EasyEDA logo in simple-icons, so that logo=easyeda will silently show no icon (badge still
+renders fine, just text-only). Same fallback applies.
+- OrCAD — no orcad icon exists; I used cadence (the vendor) since OrCAD/PSpice is a Cadence product.
+
+If you want a guaranteed-logo, no-surprises version (text-only badges), use this instead:
+
+**Hardware & Design**
+
+![SolidWorks](https://img.shields.io/badge/SOLIDWORKS-E2231A?style=flat)
+![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1A4DDE?style=flat)
+![OrCAD](https://img.shields.io/badge/OrCAD%20PSpice-009999?style=flat)
+
 
 
 ---
@@ -84,4 +110,4 @@ I'm building toward work at the intersection of **AI, the environment, and engin
 
 ---
 
-> _"Hello World!" was just the start. 🌱_
+> _UAVs are awesome. 🌱_
