@@ -72,6 +72,15 @@ A few things I've been building and learning with — spanning computer vision, 
 | **[Coil Machine Motor Control](https://github.com/kpassiasGit/motorControl-CoilMachine)** | Firmware for a **two-axis coil-winding machine** — coordinates a main winding motor and a pitch/feed motor over serial to lay wire at the right pitch. | Arduino, C++, AccelStepper |
 
 
+---
+
+## ⚡ Private Project
+
+**[UAV Pilot Navigation](https://youtu.be/3vxTlK_qQHc)**  
+Built a full-stack Next.js platform for UAV operations, combining real-time navigation, interactive mapping, and ultra-low-latency peer-to-peer video streaming.
+
+**[UAV Target Detection & Lock-On](https://youtu.be/mwjIhDiLuJ4)**  
+Developed a computer vision system capable of real-time target detection, target lock-on, and persistent tracking of identified objects. 
 
 ---
 
